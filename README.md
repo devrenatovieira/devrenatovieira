@@ -52,13 +52,9 @@ principle: código simples > código esperto
 
 <div align="center">
 
-### `contribution graph — 3D`
+### `contribution graph`
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="90%" />
-
-### `contribution graph — snake`
-
-<img src="https://raw.githubusercontent.com/devrenatovieira/devrenatovieira/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://ghchart.rshah.org/64ffda/devrenatovieira" width="90%" />
 
 </div>
 
