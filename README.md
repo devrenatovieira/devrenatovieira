@@ -38,8 +38,8 @@ const renato = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devrenatovieira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrenatovieira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devrenatovieira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devrenatovieira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ const renato = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devrenatovieira&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=devrenatovieira&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -64,26 +64,26 @@ const renato = {
 
 <p align="center">
   <a href="https://github.com/devrenatovieira/Solidarity-list">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=devrenatovieira&repo=Solidarity-list&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=devrenatovieira&repo=Solidarity-list&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/devrenatovieira/roomflow">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=devrenatovieira&repo=roomflow&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=devrenatovieira&repo=roomflow&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/devrenatovieira/pedemais">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=devrenatovieira&repo=pedemais&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=devrenatovieira&repo=pedemais&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/devrenatovieira/janellproject">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=devrenatovieira&repo=janellproject&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=devrenatovieira&repo=janellproject&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/devrenatovieira/portifolio.dev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=devrenatovieira&repo=portifolio.dev&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=devrenatovieira&repo=portifolio.dev&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/devrenatovieira/pc-control-center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=devrenatovieira&repo=pc-control-center&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=devrenatovieira&repo=pc-control-center&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
